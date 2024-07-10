@@ -1,5 +1,8 @@
-## Hi there👋 I'm Lyvia
-Welcome to my Github space 🧀
+## Hi there👋 I'm Lyvia  
+~~欢迎来到我的QQ空间~~  
+
+Welcome to my Github space 🧀  
+
 Still learning and making something fun 🍉
 
 
