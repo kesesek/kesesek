@@ -1,4 +1,4 @@
-## Hi there👋 I'm Lyvia  
+## Hi there👋  
 ~~欢迎来到我的QQ空间~~  
 
 Welcome to my Github space 🧀  
