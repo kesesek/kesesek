@@ -1,5 +1,4 @@
 ## Hi there👋  
-~~欢迎来到我的QQ空间~~  
 
 Welcome to my Github space 🧀  
 
@@ -16,6 +15,8 @@ Still learning and making something fun 🍉
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+> 
 
 > Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
