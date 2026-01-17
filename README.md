@@ -15,6 +15,7 @@ Still learning and making something fun 🍉
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 > 
 
